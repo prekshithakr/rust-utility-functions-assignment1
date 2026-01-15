@@ -1,4 +1,3 @@
-# rust-utility-functions-assignment1
 
 
 # Rust Utility Functions Assignment (371–390)
@@ -42,6 +41,10 @@ I focused on:
 ## 🎯 Objective
 To demonstrate my understanding of Rust fundamentals
 and problem-solving approach.
+
+## 📸 Output Screenshot
+
+![Program Output](screenshots/output.png)
 
 ---
 
